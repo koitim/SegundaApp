@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SegundaApp</string>
+
+    <!-- Criaos variáveis com chave-valor para cada elemento de interface do tipo TextView -->
+    <string name="text_view_nome">Nome</string>
+    <string name="text_view_telefone">Telefone</string>
+    <string name="text_view_endereco">Endereço</string>
+    <string name="text_view_email">E-mail</string>
+
+    <string name="edit_text_nome_hint">Informe seu nome</string>
+    <string name="edit_text_telefone_hint">Informe seu telefone</string>
+    <string name="edit_text_endereco_hint">Informe seu endereço</string>
+    <string name="edit_text_email_hint">Informe seu e-mail</string>
+
+    <string name="button_limpar">Limpar os campos</string>
+    <string name="button_mensagem">Mostrar mensagem</string>
+</resources>
